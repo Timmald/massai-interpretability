@@ -1,0 +1,11 @@
+,file_name,correct_class,predicted_class,noise_params,noise_predicted_class
+0,ILSVRC2012_val_00000001.JPEG,sea_snake,leatherback_turtle,"(0, 0.1)",nematode
+1,ILSVRC2012_val_00000002.JPEG,alp,ski,"(0, 0.1)",German_short-haired_pointer
+2,ILSVRC2012_val_00000004.JPEG,soup_bowl,cup,"(0, 0.1)",mixing_bowl
+3,ILSVRC2012_val_00000005.JPEG,cradle,beagle,"(0, 0.1)",bassinet
+4,ILSVRC2012_val_00000006.JPEG,garter_snake,diamondback,"(0, 0.1)",doormat
+5,ILSVRC2012_val_00000008.JPEG,bakery,bath_towel,"(0, 0.1)",bath_towel
+6,ILSVRC2012_val_00000009.JPEG,mousetrap,fox_squirrel,"(0, 0.1)",book_jacket
+7,ILSVRC2012_val_00000010.JPEG,Angora,Maltese_dog,"(0, 0.1)",volcano
+8,ILSVRC2012_val_00000017.JPEG,sea_anemone,quill,"(0, 0.1)",book_jacket
+9,ILSVRC2012_val_00000018.JPEG,vulture,kite,"(0, 0.1)",kite
