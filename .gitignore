@@ -2,3 +2,4 @@
 .vscode/*
 data/lenet_mnist_model.pth
 noise.py
+data/MNIST/
